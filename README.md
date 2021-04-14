@@ -10,3 +10,4 @@ Space to collect and share resources about workplace burnout for the [2021 Play 
 These are just some cool episodes or movies that I think have a good representation of burnout and its consequences.
 
 * Star Trek Lower Decks, [season 1 episode 3](https://www.imdb.com/title/tt9207520/?ref_=ttep_ep3)
+* [Kiki Delivery Service](https://www.imdb.com/title/tt0097814/?ref_=nv_sr_srsg_0)
