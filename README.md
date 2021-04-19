@@ -6,6 +6,7 @@ Space to collect and share resources about workplace burnout for the [2021 Play 
 ## References and other helpful stuff
 * Are you burned out? [A handy test tool](https://www.mindtools.com/pages/article/newTCS_08.htm)
 * [How to avoid burnout in creative roles](https://www.glossrecruitment.com/how-to-avoid-burnout-in-creative-roles/)
+* The physical effects of stress [by Ohio University](https://onlinemasters.ohio.edu/blog/the-physical-effects-of-stress/)
 
 ### Burnout representation in media
 
