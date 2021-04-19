@@ -3,7 +3,9 @@ Space to collect and share resources about workplace burnout for the [2021 Play 
 
 [Talk info](https://playbyplay.co.nz/speakers/gabriela-roque-lopez-2021/)
 
+## References and other helpful stuff
 * Are you burned out? [A handy test tool](https://www.mindtools.com/pages/article/newTCS_08.htm)
+* [How to avoid burnout in creative roles](https://www.glossrecruitment.com/how-to-avoid-burnout-in-creative-roles/)
 
 ### Burnout representation in media
 
