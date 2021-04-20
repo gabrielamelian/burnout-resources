@@ -7,6 +7,8 @@ Space to collect and share resources about workplace burnout for the [2021 Play 
 * Are you burned out? [A handy test tool](https://www.mindtools.com/pages/article/newTCS_08.htm)
 * [How to avoid burnout in creative roles](https://www.glossrecruitment.com/how-to-avoid-burnout-in-creative-roles/)
 * The physical effects of stress [by Ohio University](https://onlinemasters.ohio.edu/blog/the-physical-effects-of-stress/)
+* The burnout individual causes [Burnout: a Fashionable Diagnosis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3230825/)
+* Burnout systemic causes [Maslach Burnout Inventory](https://www.mindgarden.com/117-maslach-burnout-inventory-mbi)
 
 ### Burnout representation in media
 
